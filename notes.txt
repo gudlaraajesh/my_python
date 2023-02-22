@@ -1,0 +1,2 @@
+To create a virtual enviornment in mac
+python3 -m venv venv
