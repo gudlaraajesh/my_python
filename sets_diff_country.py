@@ -1,7 +1,6 @@
 '''The first line contains an integer N, the total number of country stamps.
-The next N lines contains the name of the country where the stamp is from.'''
+The next N lines contains the name of the country where the stamp is from.
 
-'''
 Sample Input:
 
 7
